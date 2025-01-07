@@ -14,4 +14,8 @@ Design an API with 3 endpoints:
      I. The first statement should tell me if the first number is greater than, less than or equal to the second number.
      II. The second statement should tell me if the second number is greater than, less than, or equal to the first number.
 
-   Peer Review:
+   Peer Review: Santiago Jesus Montanez
+
+   Everything works as intended. I would try not to use naming conventions like, num1, num2, num3, and num4. very vague.
+     You have the three controllers and services. Good.
+     I found them in the program.cs. Overall good work
